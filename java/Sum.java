@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 import java.math.*;
 	
-public class Sum
+public class Main
 { 
     public static void main(String args[]) 
     { 
