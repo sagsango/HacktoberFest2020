@@ -3,7 +3,6 @@
 using namespace std;
 
 int main(){
-    //actual picture  at https://cdn.programiz.com/sites/tutorial2program/files/pa-1.png
     vector<vector<pair<int,int>>> graph(7);
     graph[1].push_back({3,4});
     graph[1].push_back({2,4});
