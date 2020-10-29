@@ -1,0 +1,2 @@
+read fileName
+cat $fileName
