@@ -5,4 +5,4 @@ def digitSum(n):
       m //= 10;
     return s;
 n = int(input())
-digitSum(n)
+print( digitSum(n) )
